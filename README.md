@@ -23,11 +23,11 @@ The code is provided in the `movie-recommendation-system.ipynb` notebook file. Y
 In a terminal or command window, navigate to the top-level project directory `movie-recommendation-system/` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython movie-recommendation-syste.ipynb
+ipython movie-recommendation-system.ipynb
 ```  
 or
 ```bash
-jupyter movie-recommendation-syste.ipynb
+jupyter movie-recommendation-system.ipynb
 ```
 
 This will open the Jupyter Notebook software and project file in your browser.
